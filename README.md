@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://img.shields.io/badge/Chill_Joy-pink?logo=Unity&link=https%3A%2F%2Fworkhorsestudio.itch.io%2Fchill-joy
+<img alt="Static Badge" src="https://img.shields.io/badge/Chill_Joy-pink?logo=Unity&link=https%3A%2F%2Fworkhorsestudio.itch.io%2Fchill-joy">
 <!--
 **benstone22/benstone22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
